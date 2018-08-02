@@ -18,9 +18,9 @@ int main()
     Sleep(1000);
     cout << "Wait.";
     Sleep(1000);
-    cout << "Wait..";
+    cout << ".";
     Sleep(1000);
-    cout << "Wait..." << endl;
+    cout << "." << endl;
     Sleep(1000);
     cout << "It will sum, substract, multiply and divide your numbers!" << endl;
     cout << " " << endl;
