@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1533070604 source:d:\programing\c++\programs\calculator\main.cpp
-	<iostream>
-
-1533090976 source:c:\users\kapik\documents\calculator\main.cpp
-	<iostream>
-	<windows.h>
-

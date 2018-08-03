@@ -16,7 +16,7 @@ int main()
     cout << "By Andrzej Gawlowski" << endl;
     cout << "All rights reserved (R)" << endl;
     Sleep(1000);
-    cout << "Wait.";
+    cout << ".";
     Sleep(1000);
     cout << ".";
     Sleep(1000);
